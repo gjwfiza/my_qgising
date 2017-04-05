@@ -1,0 +1,9 @@
+[general]
+name=移动通信规划功能
+description=Spatial data processing framework for QGIS
+category=Vector
+version=0.1
+qgisMinimumVersion=2.14
+
+author=Karwai Kwok
+email=gjwfiza@163.com
